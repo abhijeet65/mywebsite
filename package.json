@@ -1,0 +1,13 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "deploy":"gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage":"http://starboy21/github.io/mywebsite"
+  "license": "ISC"
+}
